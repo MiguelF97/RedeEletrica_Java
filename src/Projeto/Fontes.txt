@@ -1,0 +1,4 @@
+3
+2000000;Energia Nuclear;
+1000000;Barragem;
+30000;Paineis Solares;

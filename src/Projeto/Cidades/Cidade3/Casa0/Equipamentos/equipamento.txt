@@ -1,0 +1,3 @@
+Consumidor;Congelador;950;N sei;true;
+Consumidor;Radio;30;N sei;false;
+Gerador;Painel Solar;900;N sei;true;

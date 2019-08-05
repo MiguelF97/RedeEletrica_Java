@@ -1,0 +1,3 @@
+Consumidor;Frigorifico;240;N sei;false;
+Consumidor;Microondas;100;N sei;false;
+Consumidor;Televisao;50;N sei;false;

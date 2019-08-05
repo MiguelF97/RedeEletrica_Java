@@ -1,0 +1,2 @@
+Consumidor;Radio;130;N sei;false;
+Consumidor;Televisao;240;N sei;false;

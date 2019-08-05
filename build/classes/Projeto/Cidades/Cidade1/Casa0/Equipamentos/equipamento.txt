@@ -1,0 +1,4 @@
+Consumidor;Frigorifico;240;N sei;true;
+Consumidor;Microondas;100;N sei;true;
+Consumidor;Televisao;50;N sei;false;
+Gerador;Painel Solar;400;N sei;true;
